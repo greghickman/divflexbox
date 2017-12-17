@@ -1,0 +1,19 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.container {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-flex;
+}
+.row  {
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    .row2 {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
